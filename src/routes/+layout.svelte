@@ -6,11 +6,7 @@
 	function onRouteChange() {
 		const newPath = $navigating?.to?.route.id;
 		if (newPath) {
-			if (newPath === '/[[live]]') {
-				currentPage = '/live';
-			} else {
-				currentPage = newPath;
-			}
+			currentPage = newPath;
 		}
 	}
 
