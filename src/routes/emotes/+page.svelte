@@ -1,8 +1,8 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 
-	import json7tvMock from './json7tvMock.json';
-	import emoteUsageMock from './emoteUsageMock.json';
+	// import json7tvMock from './json7tvMock.json';
+	// import emoteUsageMock from './emoteUsageMock.json';
 
 	import channelEmotes from './channelEmotes.json';
 
@@ -127,17 +127,15 @@
 			return { type, data: emote, node };
 		}
 
-		var allEmotes: { chn: ChannelEmoteData[]; stv: Emote7tvData[] };
+		let allEmotes: { chn: ChannelEmoteData[]; stv: Emote7tvData[] };
 		async function retrieveEmotes() {
-			let seventvEmotes = [];
+			let seventvEmotes: Emote7tvData[] = [];
 			try {
-				// const call = await fetch(
-				//   "https://7tv.io/v3/emote-sets/62d73f58d8e61c27b053c09a"
-				// );
-				// const json = await call.json();
-				const json = json7tvMock;
+				const call = await fetch('https://7tv.io/v3/emote-sets/62d73f58d8e61c27b053c09a');
+				const json = await call.json();
+				// const json = json7tvMock;
 
-				seventvEmotes = json.emotes.map((emote) => {
+				seventvEmotes = json.emotes.map((emote: any) => {
 					return {
 						realAmmount: 0,
 						ammount: 0,
@@ -159,14 +157,11 @@
 		}
 
 		async function initialModcheck() {
-			let emoteUsage: EmoteUsage = emoteUsageMock;
-			// let emoteUsage;
-			if (emoteUsage === undefined) {
-				const response = await fetch(
-					'https://zle5lrm7f7fnrc2di5fw7wnrfe0uwunk.lambda-url.eu-west-2.on.aws'
-				);
-				emoteUsage = (await response.json()).emoteUsage;
-			}
+			// let emoteUsage: EmoteUsage = emoteUsageMock;
+			const response = await fetch(
+				'https://zle5lrm7f7fnrc2di5fw7wnrfe0uwunk.lambda-url.eu-west-2.on.aws'
+			);
+			let emoteUsage: EmoteUsage = (await response.json()).emoteUsage;
 
 			if (emoteUsage) {
 				const loadingNode = document.body.querySelector('main #loading');
