@@ -20,7 +20,7 @@
 
 	<h3>What did you use to do this?</h3>
 	<p>
-		<b>Frontend:</b> Svelte, CSS, and Typescript
+		<b>Frontend:</b> Svelte and CSS
 		<br />
 		<b>Backend:</b> NodeJS
 		<br />
