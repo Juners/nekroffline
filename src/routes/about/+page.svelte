@@ -20,8 +20,11 @@
 
 	<h3>What did you use to do this?</h3>
 	<p>
-		<b>Frontend:</b> HTML, CSS and JS <br /><b>Backend:</b> NodeJS <br /><b>Infraestructure:</b> A lot
-		of AWS stuff
+		<b>Frontend:</b> Svelte, CSS, and Typescript
+		<br />
+		<b>Backend:</b> NodeJS
+		<br />
+		<b>Infraestructure:</b> A lot of AWS stuff
 	</p>
 
 	<div>~ ~ ~</div>
