@@ -1,710 +1,891 @@
-[
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_e3055c993a094153af11c91a2f53ebdb",
-			"tier": 1,
-			"name": "nekrolinaPray",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_111e58c6e2d54f8aa7da51e192fcf5c0",
-			"tier": 1,
-			"name": "nekrolinaRave",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static", "animated"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_1f650443eedf4d478ff8b652c83b4be8",
-			"tier": 1,
-			"name": "nekrolinaANGY",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_901f860ea89c46f1a64912e6c5d3ac4a",
-			"tier": 1,
-			"name": "nekrolinaNoted",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static", "animated"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_d04b7200d5334d1599db676ecc2cf4c3",
-			"tier": 1,
-			"name": "nekrolinaUWU",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_d30dc8bf9b444b549bcd5ddd6eecc59e",
-			"tier": 1,
-			"name": "nekrolinaOk",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_3d07c9a87de048b39acadf8f4112235b",
-			"tier": 3,
-			"name": "nekrolinaSqueeze",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_4ccda4484262463fa7d5ab7e4084f8a9",
-			"tier": 1,
-			"name": "nekrolinaUppies",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_1f74f0362fd54a78b021d4b91c9a8000",
-			"tier": 2,
-			"name": "nekrolinaJelly",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_c4d9508093b54438969e4031ccd3f746",
-			"tier": 1,
-			"name": "nekrolinaFacepalm",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_4bb3402ab61c47da8057c7ddd21d3a79",
-			"tier": 1,
-			"name": "nekrolinaBleh",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_431f76b7dc024f25916284d262e06e77",
-			"tier": 1,
-			"name": "nekrolinaCozy",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_8b40f453930d4d6cb8019146f2c5ed61",
-			"tier": 1,
-			"name": "nekrolinaDance",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static", "animated"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_d43f90f5264f4976904db5d6b9b531ca",
-			"tier": 3,
-			"name": "nekrolinaGolden",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_f4acf4c68a594540961cc9e877513fa6",
-			"tier": 1,
-			"name": "nekrolinaExamine",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_779d3bc42cf14264b6ca59e66ea053fe",
-			"tier": 1,
-			"name": "nekrolinaWiggle",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static", "animated"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_6715730acdb94d89a28d86761d426d71",
-			"tier": 1,
-			"name": "nekrolinaDinkDonk",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_eb385137481645b7814f8e0c4c9d1f4e",
-			"tier": 1,
-			"name": "nekrolinaShrug",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_b24be4380c3f4197a311cb84ed437a29",
-			"tier": 1,
-			"name": "nekrolinaSUS",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static", "animated"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_1c192a42205e438b9f00d127a30b2ecf",
-			"tier": 1,
-			"name": "nekrolinaFluff",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_dadbb9e9c54b416ca5bacb7744a24927",
-			"tier": 1,
-			"name": "nekrolinaPout",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_abda6f559a0f4558abd720ec2e8908c8",
-			"tier": 1,
-			"name": "nekrolinaHeadpat",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_6f1a2a9698e74b8baf7513a6796561f8",
-			"tier": 1,
-			"name": "nekrolinaSweat",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_aa8e5fc7738a4674acb1cd794a2c1bf4",
-			"tier": 1,
-			"name": "nekrolinaSleepy",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_551aaf209c7640159a290af82f045831",
-			"tier": 1,
-			"name": "nekrolinaAdmire",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_6e4dff638f5146738e4a5392978608fb",
-			"tier": 1,
-			"name": "nekrolinaLUBBERS",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_f79c92f29e9a4fc195a83e2e6aff50f7",
-			"tier": 1,
-			"name": "nekrolinaFlushed",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_65db2e44de0c432f89c290d220761ca1",
-			"tier": 1,
-			"name": "nekrolinaOMEGALUL",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_1f0787959d394ff39038f496b4566b16",
-			"tier": 1,
-			"name": "nekrolinaNoU",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_e39bd4907378402ca6e36e9b8ec37c06",
-			"tier": 1,
-			"name": "nekrolinaNomming",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static", "animated"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_78760fe5b85e4740a4ac36f667006abe",
-			"tier": 1,
-			"name": "nekrolinaL",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_df2e3d801a09482a82a04477ac4bb353",
-			"tier": 1,
-			"name": "nekrolinaSmug",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_747b72c887f547548831e6d8122f314a",
-			"tier": 1,
-			"name": "nekrolinaLurk",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_7d58f54269cf48dc863d110ead890bf2",
-			"tier": 1,
-			"name": "nekrolinaJam",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static", "animated"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_c12bc0d64d864c14b2391b355d3b58f0",
-			"tier": 1,
-			"name": "nekrolinaWave",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_a57d7f248bff4bac8efd1d46d29018f9",
-			"tier": 1,
-			"name": "nekrolinaBone",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_e88054c0e57248089b1f4ca008125c10",
-			"tier": 1,
-			"name": "nekrolinaPog",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_0650397b54cb42aab6afe2e472455b19",
-			"tier": 1,
-			"name": "nekrolinaPauseChamp",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_c90c72b1ade3494693185ff10d1aaca9",
-			"tier": 1,
-			"name": "nekrolinaCopium",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_0fdffda335dc4891a839cd77a51feeb3",
-			"tier": 3,
-			"name": "nekrolinaPfft",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static", "animated"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_6592a9981e074d77aefa0da51de7b120",
-			"tier": 1,
-			"name": "nekrolinaSalute",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_5c7360d778074883adf242ae34eae52b",
-			"tier": 1,
-			"name": "nekrolinaShy",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_160f8d294e6d4edbb52738ba8dbd65f3",
-			"tier": 1,
-			"name": "nekrolinaPogging",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static", "animated"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_3e67d0337d424f8c92f7aa46c2576c37",
-			"tier": 3,
-			"name": "nekrolinaGolden2",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_ced30361fd514dd9a818ab8f8ffdb591",
-			"tier": 1,
-			"name": "nekrolinaHug",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_08606689a4db473593570e4c7b6605c7",
-			"tier": 1,
-			"name": "nekrolinaPopcorn",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_1fe26ab1c0fd41168fa8af97935cbdfa",
-			"tier": 1,
-			"name": "nekrolinaHi",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_a4bfd62671c242799d30112119572b46",
-			"tier": 1,
-			"name": "nekrolinaLaughing",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static", "animated"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_07c0bd179a1b42c19559594e5aaddbc5",
-			"tier": 1,
-			"name": "nekrolinaHUH",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_8f2ab3c2c4c542fe8637d446778005fa",
-			"tier": 1,
-			"name": "nekrolinaTea",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_41777c487da14006b5ac4f33d42ea273",
-			"tier": 1,
-			"name": "nekrolinaTail",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static", "animated"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_c2a44866fe2d459bab2e3789725f277f",
-			"tier": 3,
-			"name": "nekrolinaUWUing",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static", "animated"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_57380fd83ac6431b98812b12777ad9ea",
-			"tier": 1,
-			"name": "nekrolinaLUL",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_771eaae8fa1646b29b501aa41a5b768f",
-			"tier": 2,
-			"name": "nekrolinaBOOBA",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_0f89d42bdddc425ab77dac21a900af68",
-			"tier": 1,
-			"name": "nekrolinaCry",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_f58ab9605b49406898028d6a2b4192ea",
-			"tier": 1,
-			"name": "nekrolinaBased",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_6e597a287b1244c7b4f080ecca0fb674",
-			"tier": 1,
-			"name": "nekrolinaNote",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_69c3ad19f6394ab5a7596a742692ea10",
-			"tier": 3,
-			"name": "nekrolinaLewd",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static"]
-		}
-	},
-	{
-		"realAmmount": 0,
-		"ammount": 0,
-		"data": {
-			"id": "emotesv2_6668cbbdbf3c47c499552cd77f1e4245",
-			"tier": 2,
-			"name": "nekrolinaPinch",
-			"scale": ["1.0", "2.0", "3.0"],
-			"theme_mode": ["light", "dark"],
-			"format": ["static", "animated"]
-		}
-	}
-]
+{
+	"data": [
+	  {
+		"id": "emotesv2_e3055c993a094153af11c91a2f53ebdb",
+		"name": "nekrolinaPray",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e3055c993a094153af11c91a2f53ebdb/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e3055c993a094153af11c91a2f53ebdb/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e3055c993a094153af11c91a2f53ebdb/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_111e58c6e2d54f8aa7da51e192fcf5c0",
+		"name": "nekrolinaRave",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_111e58c6e2d54f8aa7da51e192fcf5c0/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_111e58c6e2d54f8aa7da51e192fcf5c0/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_111e58c6e2d54f8aa7da51e192fcf5c0/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "381107579",
+		"format": ["static", "animated"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_1f650443eedf4d478ff8b652c83b4be8",
+		"name": "nekrolinaANGY",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1f650443eedf4d478ff8b652c83b4be8/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1f650443eedf4d478ff8b652c83b4be8/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1f650443eedf4d478ff8b652c83b4be8/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_901f860ea89c46f1a64912e6c5d3ac4a",
+		"name": "nekrolinaNoted",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_901f860ea89c46f1a64912e6c5d3ac4a/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_901f860ea89c46f1a64912e6c5d3ac4a/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_901f860ea89c46f1a64912e6c5d3ac4a/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "381107579",
+		"format": ["static", "animated"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_d04b7200d5334d1599db676ecc2cf4c3",
+		"name": "nekrolinaUWU",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d04b7200d5334d1599db676ecc2cf4c3/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d04b7200d5334d1599db676ecc2cf4c3/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d04b7200d5334d1599db676ecc2cf4c3/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_d30dc8bf9b444b549bcd5ddd6eecc59e",
+		"name": "nekrolinaOk",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d30dc8bf9b444b549bcd5ddd6eecc59e/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d30dc8bf9b444b549bcd5ddd6eecc59e/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d30dc8bf9b444b549bcd5ddd6eecc59e/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_3d07c9a87de048b39acadf8f4112235b",
+		"name": "nekrolinaSqueeze",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3d07c9a87de048b39acadf8f4112235b/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3d07c9a87de048b39acadf8f4112235b/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3d07c9a87de048b39acadf8f4112235b/static/light/3.0"
+		},
+		"tier": "3000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386112",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_4ccda4484262463fa7d5ab7e4084f8a9",
+		"name": "nekrolinaUppies",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4ccda4484262463fa7d5ab7e4084f8a9/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4ccda4484262463fa7d5ab7e4084f8a9/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4ccda4484262463fa7d5ab7e4084f8a9/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_1f74f0362fd54a78b021d4b91c9a8000",
+		"name": "nekrolinaJelly",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1f74f0362fd54a78b021d4b91c9a8000/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1f74f0362fd54a78b021d4b91c9a8000/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1f74f0362fd54a78b021d4b91c9a8000/static/light/3.0"
+		},
+		"tier": "2000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386111",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_c4d9508093b54438969e4031ccd3f746",
+		"name": "nekrolinaFacepalm",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c4d9508093b54438969e4031ccd3f746/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c4d9508093b54438969e4031ccd3f746/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c4d9508093b54438969e4031ccd3f746/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_4bb3402ab61c47da8057c7ddd21d3a79",
+		"name": "nekrolinaBleh",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4bb3402ab61c47da8057c7ddd21d3a79/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4bb3402ab61c47da8057c7ddd21d3a79/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_4bb3402ab61c47da8057c7ddd21d3a79/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_431f76b7dc024f25916284d262e06e77",
+		"name": "nekrolinaCozy",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_431f76b7dc024f25916284d262e06e77/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_431f76b7dc024f25916284d262e06e77/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_431f76b7dc024f25916284d262e06e77/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_8b40f453930d4d6cb8019146f2c5ed61",
+		"name": "nekrolinaDance",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8b40f453930d4d6cb8019146f2c5ed61/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8b40f453930d4d6cb8019146f2c5ed61/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8b40f453930d4d6cb8019146f2c5ed61/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "381107579",
+		"format": ["static", "animated"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_d43f90f5264f4976904db5d6b9b531ca",
+		"name": "nekrolinaGolden",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d43f90f5264f4976904db5d6b9b531ca/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d43f90f5264f4976904db5d6b9b531ca/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_d43f90f5264f4976904db5d6b9b531ca/static/light/3.0"
+		},
+		"tier": "3000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386112",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_f4acf4c68a594540961cc9e877513fa6",
+		"name": "nekrolinaExamine",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f4acf4c68a594540961cc9e877513fa6/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f4acf4c68a594540961cc9e877513fa6/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f4acf4c68a594540961cc9e877513fa6/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_779d3bc42cf14264b6ca59e66ea053fe",
+		"name": "nekrolinaWiggle",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_779d3bc42cf14264b6ca59e66ea053fe/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_779d3bc42cf14264b6ca59e66ea053fe/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_779d3bc42cf14264b6ca59e66ea053fe/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "381107579",
+		"format": ["static", "animated"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_6715730acdb94d89a28d86761d426d71",
+		"name": "nekrolinaDinkDonk",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6715730acdb94d89a28d86761d426d71/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6715730acdb94d89a28d86761d426d71/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6715730acdb94d89a28d86761d426d71/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_eb385137481645b7814f8e0c4c9d1f4e",
+		"name": "nekrolinaShrug",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_eb385137481645b7814f8e0c4c9d1f4e/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_eb385137481645b7814f8e0c4c9d1f4e/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_eb385137481645b7814f8e0c4c9d1f4e/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_b24be4380c3f4197a311cb84ed437a29",
+		"name": "nekrolinaSUS",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b24be4380c3f4197a311cb84ed437a29/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b24be4380c3f4197a311cb84ed437a29/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_b24be4380c3f4197a311cb84ed437a29/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "381107579",
+		"format": ["static", "animated"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_1c192a42205e438b9f00d127a30b2ecf",
+		"name": "nekrolinaFluff",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1c192a42205e438b9f00d127a30b2ecf/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1c192a42205e438b9f00d127a30b2ecf/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1c192a42205e438b9f00d127a30b2ecf/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_dadbb9e9c54b416ca5bacb7744a24927",
+		"name": "nekrolinaPout",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_dadbb9e9c54b416ca5bacb7744a24927/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_dadbb9e9c54b416ca5bacb7744a24927/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_dadbb9e9c54b416ca5bacb7744a24927/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_abda6f559a0f4558abd720ec2e8908c8",
+		"name": "nekrolinaHeadpat",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_abda6f559a0f4558abd720ec2e8908c8/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_abda6f559a0f4558abd720ec2e8908c8/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_abda6f559a0f4558abd720ec2e8908c8/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_6f1a2a9698e74b8baf7513a6796561f8",
+		"name": "nekrolinaSweat",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6f1a2a9698e74b8baf7513a6796561f8/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6f1a2a9698e74b8baf7513a6796561f8/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6f1a2a9698e74b8baf7513a6796561f8/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_aa8e5fc7738a4674acb1cd794a2c1bf4",
+		"name": "nekrolinaSleepy",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_aa8e5fc7738a4674acb1cd794a2c1bf4/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_aa8e5fc7738a4674acb1cd794a2c1bf4/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_aa8e5fc7738a4674acb1cd794a2c1bf4/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_551aaf209c7640159a290af82f045831",
+		"name": "nekrolinaAdmire",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_551aaf209c7640159a290af82f045831/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_551aaf209c7640159a290af82f045831/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_551aaf209c7640159a290af82f045831/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_6e4dff638f5146738e4a5392978608fb",
+		"name": "nekrolinaLUBBERS",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6e4dff638f5146738e4a5392978608fb/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6e4dff638f5146738e4a5392978608fb/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6e4dff638f5146738e4a5392978608fb/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_f79c92f29e9a4fc195a83e2e6aff50f7",
+		"name": "nekrolinaFlushed",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f79c92f29e9a4fc195a83e2e6aff50f7/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f79c92f29e9a4fc195a83e2e6aff50f7/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f79c92f29e9a4fc195a83e2e6aff50f7/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_65db2e44de0c432f89c290d220761ca1",
+		"name": "nekrolinaOMEGALUL",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_65db2e44de0c432f89c290d220761ca1/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_65db2e44de0c432f89c290d220761ca1/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_65db2e44de0c432f89c290d220761ca1/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_1f0787959d394ff39038f496b4566b16",
+		"name": "nekrolinaNoU",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1f0787959d394ff39038f496b4566b16/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1f0787959d394ff39038f496b4566b16/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1f0787959d394ff39038f496b4566b16/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_e39bd4907378402ca6e36e9b8ec37c06",
+		"name": "nekrolinaNomming",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e39bd4907378402ca6e36e9b8ec37c06/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e39bd4907378402ca6e36e9b8ec37c06/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e39bd4907378402ca6e36e9b8ec37c06/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "381107579",
+		"format": ["static", "animated"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_78760fe5b85e4740a4ac36f667006abe",
+		"name": "nekrolinaL",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_78760fe5b85e4740a4ac36f667006abe/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_78760fe5b85e4740a4ac36f667006abe/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_78760fe5b85e4740a4ac36f667006abe/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_df2e3d801a09482a82a04477ac4bb353",
+		"name": "nekrolinaSmug",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_df2e3d801a09482a82a04477ac4bb353/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_df2e3d801a09482a82a04477ac4bb353/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_df2e3d801a09482a82a04477ac4bb353/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_747b72c887f547548831e6d8122f314a",
+		"name": "nekrolinaLurk",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_747b72c887f547548831e6d8122f314a/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_747b72c887f547548831e6d8122f314a/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_747b72c887f547548831e6d8122f314a/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_7d58f54269cf48dc863d110ead890bf2",
+		"name": "nekrolinaJam",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7d58f54269cf48dc863d110ead890bf2/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7d58f54269cf48dc863d110ead890bf2/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_7d58f54269cf48dc863d110ead890bf2/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "381107579",
+		"format": ["static", "animated"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_c12bc0d64d864c14b2391b355d3b58f0",
+		"name": "nekrolinaWave",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c12bc0d64d864c14b2391b355d3b58f0/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c12bc0d64d864c14b2391b355d3b58f0/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c12bc0d64d864c14b2391b355d3b58f0/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_a57d7f248bff4bac8efd1d46d29018f9",
+		"name": "nekrolinaBone",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a57d7f248bff4bac8efd1d46d29018f9/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a57d7f248bff4bac8efd1d46d29018f9/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a57d7f248bff4bac8efd1d46d29018f9/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_e88054c0e57248089b1f4ca008125c10",
+		"name": "nekrolinaPog",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88054c0e57248089b1f4ca008125c10/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88054c0e57248089b1f4ca008125c10/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_e88054c0e57248089b1f4ca008125c10/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_0650397b54cb42aab6afe2e472455b19",
+		"name": "nekrolinaPauseChamp",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0650397b54cb42aab6afe2e472455b19/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0650397b54cb42aab6afe2e472455b19/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0650397b54cb42aab6afe2e472455b19/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_c90c72b1ade3494693185ff10d1aaca9",
+		"name": "nekrolinaCopium",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c90c72b1ade3494693185ff10d1aaca9/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c90c72b1ade3494693185ff10d1aaca9/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c90c72b1ade3494693185ff10d1aaca9/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_0fdffda335dc4891a839cd77a51feeb3",
+		"name": "nekrolinaPfft",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0fdffda335dc4891a839cd77a51feeb3/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0fdffda335dc4891a839cd77a51feeb3/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0fdffda335dc4891a839cd77a51feeb3/static/light/3.0"
+		},
+		"tier": "3000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "317905348",
+		"format": ["static", "animated"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_6592a9981e074d77aefa0da51de7b120",
+		"name": "nekrolinaSalute",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6592a9981e074d77aefa0da51de7b120/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6592a9981e074d77aefa0da51de7b120/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6592a9981e074d77aefa0da51de7b120/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_5c7360d778074883adf242ae34eae52b",
+		"name": "nekrolinaShy",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5c7360d778074883adf242ae34eae52b/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5c7360d778074883adf242ae34eae52b/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_5c7360d778074883adf242ae34eae52b/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_160f8d294e6d4edbb52738ba8dbd65f3",
+		"name": "nekrolinaPogging",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_160f8d294e6d4edbb52738ba8dbd65f3/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_160f8d294e6d4edbb52738ba8dbd65f3/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_160f8d294e6d4edbb52738ba8dbd65f3/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "381107579",
+		"format": ["static", "animated"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_3e67d0337d424f8c92f7aa46c2576c37",
+		"name": "nekrolinaGolden2",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3e67d0337d424f8c92f7aa46c2576c37/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3e67d0337d424f8c92f7aa46c2576c37/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_3e67d0337d424f8c92f7aa46c2576c37/static/light/3.0"
+		},
+		"tier": "3000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386112",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_ced30361fd514dd9a818ab8f8ffdb591",
+		"name": "nekrolinaHug",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ced30361fd514dd9a818ab8f8ffdb591/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ced30361fd514dd9a818ab8f8ffdb591/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_ced30361fd514dd9a818ab8f8ffdb591/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_08606689a4db473593570e4c7b6605c7",
+		"name": "nekrolinaPopcorn",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_08606689a4db473593570e4c7b6605c7/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_08606689a4db473593570e4c7b6605c7/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_08606689a4db473593570e4c7b6605c7/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_1fe26ab1c0fd41168fa8af97935cbdfa",
+		"name": "nekrolinaHi",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1fe26ab1c0fd41168fa8af97935cbdfa/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1fe26ab1c0fd41168fa8af97935cbdfa/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1fe26ab1c0fd41168fa8af97935cbdfa/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_a4bfd62671c242799d30112119572b46",
+		"name": "nekrolinaLaughing",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a4bfd62671c242799d30112119572b46/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a4bfd62671c242799d30112119572b46/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_a4bfd62671c242799d30112119572b46/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "381107579",
+		"format": ["static", "animated"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_07c0bd179a1b42c19559594e5aaddbc5",
+		"name": "nekrolinaHUH",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_07c0bd179a1b42c19559594e5aaddbc5/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_07c0bd179a1b42c19559594e5aaddbc5/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_07c0bd179a1b42c19559594e5aaddbc5/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_8f2ab3c2c4c542fe8637d446778005fa",
+		"name": "nekrolinaTea",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8f2ab3c2c4c542fe8637d446778005fa/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8f2ab3c2c4c542fe8637d446778005fa/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_8f2ab3c2c4c542fe8637d446778005fa/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_41777c487da14006b5ac4f33d42ea273",
+		"name": "nekrolinaTail",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_41777c487da14006b5ac4f33d42ea273/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_41777c487da14006b5ac4f33d42ea273/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_41777c487da14006b5ac4f33d42ea273/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "381107579",
+		"format": ["static", "animated"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_c2a44866fe2d459bab2e3789725f277f",
+		"name": "nekrolinaUWUing",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c2a44866fe2d459bab2e3789725f277f/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c2a44866fe2d459bab2e3789725f277f/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_c2a44866fe2d459bab2e3789725f277f/static/light/3.0"
+		},
+		"tier": "3000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "317905348",
+		"format": ["static", "animated"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_57380fd83ac6431b98812b12777ad9ea",
+		"name": "nekrolinaLUL",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_57380fd83ac6431b98812b12777ad9ea/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_57380fd83ac6431b98812b12777ad9ea/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_57380fd83ac6431b98812b12777ad9ea/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_771eaae8fa1646b29b501aa41a5b768f",
+		"name": "nekrolinaBOOBA",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_771eaae8fa1646b29b501aa41a5b768f/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_771eaae8fa1646b29b501aa41a5b768f/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_771eaae8fa1646b29b501aa41a5b768f/static/light/3.0"
+		},
+		"tier": "2000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386111",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_0f89d42bdddc425ab77dac21a900af68",
+		"name": "nekrolinaCry",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0f89d42bdddc425ab77dac21a900af68/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0f89d42bdddc425ab77dac21a900af68/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_0f89d42bdddc425ab77dac21a900af68/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_f58ab9605b49406898028d6a2b4192ea",
+		"name": "nekrolinaBased",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f58ab9605b49406898028d6a2b4192ea/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f58ab9605b49406898028d6a2b4192ea/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_f58ab9605b49406898028d6a2b4192ea/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_6e597a287b1244c7b4f080ecca0fb674",
+		"name": "nekrolinaNote",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6e597a287b1244c7b4f080ecca0fb674/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6e597a287b1244c7b4f080ecca0fb674/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6e597a287b1244c7b4f080ecca0fb674/static/light/3.0"
+		},
+		"tier": "1000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386110",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_69c3ad19f6394ab5a7596a742692ea10",
+		"name": "nekrolinaLewd",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_69c3ad19f6394ab5a7596a742692ea10/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_69c3ad19f6394ab5a7596a742692ea10/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_69c3ad19f6394ab5a7596a742692ea10/static/light/3.0"
+		},
+		"tier": "3000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "305386112",
+		"format": ["static"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  },
+	  {
+		"id": "emotesv2_6668cbbdbf3c47c499552cd77f1e4245",
+		"name": "nekrolinaPinch",
+		"images": {
+		  "url_1x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6668cbbdbf3c47c499552cd77f1e4245/static/light/1.0",
+		  "url_2x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6668cbbdbf3c47c499552cd77f1e4245/static/light/2.0",
+		  "url_4x": "https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_6668cbbdbf3c47c499552cd77f1e4245/static/light/3.0"
+		},
+		"tier": "2000",
+		"emote_type": "subscriptions",
+		"emote_set_id": "318755948",
+		"format": ["static", "animated"],
+		"scale": ["1.0", "2.0", "3.0"],
+		"theme_mode": ["light", "dark"]
+	  }
+	],
+	"template": "https://static-cdn.jtvnw.net/emoticons/v2/{{id}}/{{format}}/{{theme_mode}}/{{scale}}"
+  }
+  
