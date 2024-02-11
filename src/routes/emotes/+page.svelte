@@ -16,6 +16,7 @@
 	let loading = true;
 	let emoteList: { [id: string]: Emote7tvData | ChannelEmoteData } = {};
 	let emoteUsage: FlatEmoteUsage[] = [];
+	let unusedEmotes: (Emote7tvData | ChannelEmoteData)[] = [];
 
 	async function retrieveEmotes(): Promise<{ [id: string]: Emote7tvData | ChannelEmoteData }> {
 		const call = await fetch('https://7tv.io/v3/emote-sets/62d73f58d8e61c27b053c09a');
@@ -33,29 +34,35 @@
 		return emoteList;
 	}
 
-	async function fetchEmoteUsage(): Promise<FlatEmoteUsage[]> {
+	async function fetchEmoteUsage(): Promise<{ [id: string]: FlatEmoteUsage }> {
 		const response = await fetch(
 			'https://zle5lrm7f7fnrc2di5fw7wnrfe0uwunk.lambda-url.eu-west-2.on.aws'
 		);
 		const emoteUsage: EmoteUsage = (await response.json()).emoteUsage;
 		// const emoteUsage: EmoteUsage = emoteUsageMock;
 
-		const emoteList: { id: string; type: 'twitch' | '7tv'; stats: EmoteUsageStats }[] = [];
+		const emoteList: { [id: string]: FlatEmoteUsage } = {};
 		Object.entries(emoteUsage.twitch).forEach(([id, stats]) => {
-			emoteList.push({ id, type: 'twitch', stats });
+			emoteList[`twitch_${id}`] = { id, type: 'twitch', stats };
 		});
 		Object.entries(emoteUsage.seventv).forEach(([id, stats]) => {
-			emoteList.push({ id, type: '7tv', stats });
+			emoteList[`7tv_${id}`] = { id, type: '7tv', stats };
 		});
 
-		const sortedUsage = emoteList.sort((a, b) => {
+		return emoteList;
+	}
+
+	function sortEmoteList(emoteObject: { [id: string]: FlatEmoteUsage }) {
+		const emoteList = Object.values(emoteObject);
+
+		emoteList.sort((a, b) => {
 			let sort = b.stats.ammount - a.stats.ammount;
 			if (sort === 0) sort = b.stats.realAmmount - a.stats.realAmmount;
 			if (sort === 0) sort = b.type.length - a.type.length; // Twitch is longer, so goes first
 			return sort;
 		});
 
-		return sortedUsage;
+		return emoteList;
 	}
 
 	function getImageSource(emote: FlatEmoteUsage) {
@@ -67,6 +74,10 @@
 		}
 
 		return url;
+	}
+
+	function getEmoteName(emote: FlatEmoteUsage) {
+		return emoteList[`${emote.type}_${emote.id}`]?.name || '';
 	}
 
 	let lazyLoadTimeout: number | undefined;
@@ -125,7 +136,15 @@
 	onMount(() => {
 		async function fetchData() {
 			emoteList = await retrieveEmotes();
-			emoteUsage = await fetchEmoteUsage();
+			const emoteStats = await fetchEmoteUsage();
+			emoteUsage = sortEmoteList(emoteStats);
+
+			Object.entries(emoteList).forEach(([k, emote]) => {
+				if (!emoteStats[k]) {
+					let type = k.split('_')[0] as 'twitch' | '7tv';
+					emoteUsage.push({ id: emote.id, type, stats: { ammount: 0, realAmmount: 0 } });
+				}
+			});
 
 			loading = false;
 		}
@@ -160,7 +179,12 @@
 			<div class={`emote ${emote.type === '7tv' ? 'stv' : emote.type}`}>
 				<div class="real-ammount" title="The total ammount sent">({emote.stats.realAmmount})</div>
 
-				<img class="lazy" data-src={getImageSource(emote)} alt="emote" />
+				<img
+					class="lazy"
+					data-src={getImageSource(emote)}
+					alt="emote"
+					title={getEmoteName(emote)}
+				/>
 				<div>{emote.stats.ammount}</div>
 			</div>
 		{/each}
